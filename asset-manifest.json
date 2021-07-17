@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CoviTracker/static/css/main.4935f288.chunk.css",
-    "main.js": "/CoviTracker/static/js/main.a2d69cfa.chunk.js",
-    "main.js.map": "/CoviTracker/static/js/main.a2d69cfa.chunk.js.map",
+    "main.css": "/CoviTracker/static/css/main.3a04749f.chunk.css",
+    "main.js": "/CoviTracker/static/js/main.a5a560ba.chunk.js",
+    "main.js.map": "/CoviTracker/static/js/main.a5a560ba.chunk.js.map",
     "runtime-main.js": "/CoviTracker/static/js/runtime-main.36117ab2.js",
     "runtime-main.js.map": "/CoviTracker/static/js/runtime-main.36117ab2.js.map",
     "static/js/2.e8256bcc.chunk.js": "/CoviTracker/static/js/2.e8256bcc.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a70757cc.chunk.js": "/CoviTracker/static/js/3.a70757cc.chunk.js",
     "static/js/3.a70757cc.chunk.js.map": "/CoviTracker/static/js/3.a70757cc.chunk.js.map",
     "index.html": "/CoviTracker/index.html",
-    "static/css/main.4935f288.chunk.css.map": "/CoviTracker/static/css/main.4935f288.chunk.css.map",
+    "static/css/main.3a04749f.chunk.css.map": "/CoviTracker/static/css/main.3a04749f.chunk.css.map",
     "static/js/2.e8256bcc.chunk.js.LICENSE.txt": "/CoviTracker/static/js/2.e8256bcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.36117ab2.js",
     "static/js/2.e8256bcc.chunk.js",
-    "static/css/main.4935f288.chunk.css",
-    "static/js/main.a2d69cfa.chunk.js"
+    "static/css/main.3a04749f.chunk.css",
+    "static/js/main.a5a560ba.chunk.js"
   ]
 }
