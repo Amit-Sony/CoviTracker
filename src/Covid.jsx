@@ -24,8 +24,8 @@ import './App.css'
             <>
             <h2
                 style={{backgroundColor:'#FDD2BF' ,width:'100%',lineHeight:'68px', marginBottom : '20px', textAlign : 'center'}}>INDIA STATEWISE DATA </h2>
-            <div className="container d-flex flex-wrap justify-content-center" >
-            <table className="table table-striped">
+            <div className="table-responsive " >
+            <table className="table table-striped ">
                 <thead>
                     <tr>
                     <th scope="col">State</th>
@@ -58,7 +58,7 @@ import './App.css'
 
             <h2
                 style={{backgroundColor:'#FDD2BF' ,width:'100%',lineHeight:'68px', marginBottom : '20px', textAlign : 'center'}}>INDIA Daily Data </h2>
-            <div className="container d-flex flex-wrap justify-content-center" >
+            <div className="d-flex  table-responsive " style={{padding : '0px 1.2rem'}} >
             <table className="table table-striped">
                 <thead>
                     <tr>
@@ -75,7 +75,7 @@ import './App.css'
                 {
                     Dailydata.map((CurEl)=>{
                         return(
-                            <tr key={CurEl.datemyd}>
+                            <tr keys={CurEl.datemyd}>
                             <th scope="row">{CurEl.date}</th>
                             <td>{CurEl.dailyconfirmed}</td>
                             <td>{CurEl.dailyrecovered}</td>
